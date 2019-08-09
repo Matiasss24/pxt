@@ -3,6 +3,8 @@
 As you are using Linux, it is recommended that you use [Mozilla
 Firefox][firefox] or [Google Chrome][chrome].
 
+MicroBit Open
+
 Please see [here][technical] for technical information on which browsers are
 supported, or [here][versions] to check which version you are using.
 
